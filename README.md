@@ -24,9 +24,14 @@ Are there products with strong sales but consistently poor profit performance?
 The analysis focuses on the following metrics:
 
 Total Sales
+
 Total Profit
+
 Profit Margin (%)
+
 Discount (%)
+
 Shipping Cost
+
 Loss-Making Orders (Profit < 0)
 
