@@ -14,9 +14,14 @@ Profit leakage occurs when revenue-generating orders result in low or negative p
 This project aims to answer the following key business questions:
 
 Which regions, categories, and sub-categories contribute most to profit leakage?
+
+
 How do discounts impact profit margins?
+
 Which customers generate high revenue but low or negative profit?
+
 How does shipping mode affect profitability?
+
 Are there products with strong sales but consistently poor profit performance?
 
 4. Key Metrics
