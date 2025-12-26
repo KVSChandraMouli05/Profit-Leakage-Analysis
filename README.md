@@ -40,3 +40,9 @@ Shipping Cost
 
 Loss-Making Orders (Profit < 0)
 
+
+## Key Insights & Recommendations
+
+- The Tables sub-category generates high revenue but operates at an average margin of –24%, making it the largest source of profit leakage.
+- Product-level analysis revealed specific table products with extreme discounting (40–60%) and deeply negative margins.
+- Loss-making products were classified into repricing or discontinuation actions, enabling targeted product strategy decisions instead of blanket category changes.
